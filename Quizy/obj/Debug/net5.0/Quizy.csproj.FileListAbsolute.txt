@@ -1,0 +1,16 @@
+C:\Users\New User\source\repos\Quizy\bin\Debug\net5.0\Quizy.exe
+C:\Users\New User\source\repos\Quizy\bin\Debug\net5.0\Quizy.deps.json
+C:\Users\New User\source\repos\Quizy\bin\Debug\net5.0\Quizy.runtimeconfig.json
+C:\Users\New User\source\repos\Quizy\bin\Debug\net5.0\Quizy.runtimeconfig.dev.json
+C:\Users\New User\source\repos\Quizy\bin\Debug\net5.0\Quizy.dll
+C:\Users\New User\source\repos\Quizy\bin\Debug\net5.0\ref\Quizy.dll
+C:\Users\New User\source\repos\Quizy\bin\Debug\net5.0\Quizy.pdb
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.AssemblyInfoInputs.cache
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.AssemblyInfo.cs
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.dll
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\ref\Quizy.dll
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.pdb
+C:\Users\New User\source\repos\Quizy\obj\Debug\net5.0\Quizy.genruntimeconfig.cache
